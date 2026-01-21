@@ -1,6 +1,6 @@
 <?php
 	//database connection details
-	$host = 'localhost';
+	$host = 'cfmysqldb.cdk8yskb0y5j.us-east-1.rds.amazonaws.com';
 	$user = 'root';
 	$password = '';
 	$database = 'gorgeous_cupcakes';
@@ -20,4 +20,5 @@
 		include('../view/database_error.php');
 		exit();
 	}
+
 ?>
