@@ -1,6 +1,6 @@
 <?php
 	//database connection details
-	$host = 'cfmysqldb.cdk8yskb0y5j.us-east-1.rds.amazonaws.com';
+	$host = 'localhost';
 	$user = 'root';
 	$password = '';
 	$database = 'gorgeous_cupcakes';
@@ -22,3 +22,4 @@
 	}
 
 ?>
+
